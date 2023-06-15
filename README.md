@@ -1,1 +1,1 @@
-# CFGT (Context-Free Grammar Transform)
+# CFGT (Context-Free Grammar Transformer)
